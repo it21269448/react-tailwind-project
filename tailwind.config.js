@@ -27,17 +27,12 @@ module.exports = {
     },
   },
 
-  // Variants can be extended to add additional styles based on state
   variants: {
     extend: {
-      // Example: Enable 'disabled' variant for opacity
       opacity: ['disabled'],
-      // Add other variants here
     },
   },
 
-  // Tailwind plugins
   plugins: [
-    // Add Tailwind CSS plugins here if needed
   ],
 };
