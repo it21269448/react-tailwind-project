@@ -65,7 +65,7 @@ function HeroSection() {
 
   return (
     <div style={heroSectionStyle}>
-      <div style={callToActionStyle}>
+      <div style={callToActionStyle}>  
         <h1 style={headingStyle}>
           We Crush Your Competitors, Goals, And Sales Records - Without The B.S.
         </h1>
